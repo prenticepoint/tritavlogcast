@@ -3,12 +3,41 @@
     <title>TritaVlogCast</title>
     <link href="https://prenticepoint.github.io/tritavlogcast/feed.xml" rel="self" />
     <link href="https://prenticepoint.github.io/tritavlogcast" />
-    <updated>2021-12-05T14:06:42+08:00</updated>
+    <updated>2021-12-05T18:45:36+08:00</updated>
     <author>
         <name>1tritagonist</name>
     </author>
     <id>https://prenticepoint.github.io/tritavlogcast</id>
 
+    <entry>
+        <title>Give for the Cause</title>
+        <author>
+            <name>1tritagonist</name>
+        </author>
+        <link href="https://prenticepoint.github.io/tritavlogcast/give-for-the-cause.html"/>
+        <id>https://prenticepoint.github.io/tritavlogcast/give-for-the-cause.html</id>
+
+        <updated>2021-12-05T18:45:36+08:00</updated>
+            <summary>
+                <![CDATA[
+                     For more details how to be a part Message me on Facebook 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    For more details how to be a part
+  </p>
+
+    <h2 id="message-me-on-facebook">
+      <a href="https://m.me/tritavlogcast" target="_blank">
+      Message me on Facebook
+      </a>
+    </h2>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>AN OVERVIEW OF GENESIS by Stanford E. Murrell</title>
         <author>
